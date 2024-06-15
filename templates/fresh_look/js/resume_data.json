@@ -1,0 +1,304 @@
+{
+    "contact": [
+      {
+        "subcategory": "Email",
+        "title": "Email Address",
+        "content": "joneslaura07@gmail.com"
+      },
+      {
+        "subcategory": "Country",
+        "title": "Country",
+        "content": "India"
+      },
+      {
+        "subcategory": "Address",
+        "title": "Address",
+        "content": "Nagercoil, Tamilnadu [https://maps.app.goo.gl/TgPbcEpyrnjd9SUp9]"
+      },
+      {
+        "subcategory": "Phone",
+        "title": "Phone Numbers",
+        "content": "+91 94438 78524"
+      },
+      {
+        "subcategory": "Country",
+        "title": "Country",
+        "content": "UAE"
+      },
+      {
+        "subcategory": "Address",
+        "title": "Address",
+        "content": "Sharjah, UAE [https://maps.app.goo.gl/R5Bio2s4sSLuH3Tz7]"
+      },
+      {
+        "subcategory": "Phone",
+        "title": "Phone Numbers",
+        "content": "+971 58 166 1385"
+      },
+      {
+        "subcategory": "LinkedIn",
+        "title": "Profile",
+        "content": "jones-laura [https://www.linkedin.com/in/jones-laura]"
+      },
+      {
+        "subcategory": "GitHub",
+        "title": "Profile",
+        "content": "JLTube [https://github.com/JLTube]"
+      },
+      {
+        "subcategory": "Personal Website/Portfolio",
+        "title": "Website",
+        "content": "website.com"
+      }
+    ],
+    "about": [
+      {
+        "subcategory": "",
+        "title": "About Me",
+        "content": "This section looks good as a paragraph. Consider adding a brief summary of your professional goals and key achievements."
+      }
+    ],
+    "education": [
+      {
+        "subcategory": "College",
+        "title": "College Name",
+        "content": "Arul Anandar College | Madurai, India"
+      },
+      {
+        "subcategory": "College",
+        "title": "Degree",
+        "content": "B.Sc. Information Technology & Management"
+      },
+      {
+        "subcategory": "College",
+        "title": "Year",
+        "content": "2014 to 2017"
+      },
+      {
+        "subcategory": "College",
+        "title": "Academy Percentage",
+        "content": "74.05%"
+      },
+      {
+        "subcategory": "College",
+        "title": "Achievements or Awards",
+        "content": "2016 - Two certificates, 2015 three certificates [I will update the details later]"
+      },
+      {
+        "subcategory": "School",
+        "title": "School Name",
+        "content": "Belfield Matriculation Higher Secondary School | Nagercoil, India"
+      },
+      {
+        "subcategory": "School",
+        "title": "Grade",
+        "content": "HSC Computer Science"
+      },
+      {
+        "subcategory": "School",
+        "title": "Year",
+        "content": "2012"
+      },
+      {
+        "subcategory": "School",
+        "title": "Academy Percentage",
+        "content": "59.33%"
+      },
+      {
+        "subcategory": "School",
+        "title": "Achievements or Awards",
+        "content": "One certificate [I will update the details later]"
+      },
+      {
+        "subcategory": "School",
+        "title": "School Name",
+        "content": "Belfield Matriculation Higher Secondary School | Nagercoil, India"
+      },
+      {
+        "subcategory": "School",
+        "title": "Grade",
+        "content": "SSLC"
+      },
+      {
+        "subcategory": "School",
+        "title": "Year",
+        "content": "2010"
+      },
+      {
+        "subcategory": "School",
+        "title": "Academy Percentage",
+        "content": "69%"
+      },
+      {
+        "subcategory": "School",
+        "title": "Achievements or Awards",
+        "content": "One certificate [I will update the details later]"
+      }
+    ],
+    "experience": [
+      {
+        "subcategory": "Job",
+        "title": "Job Role",
+        "content": "Artificial Intelligence/Machine Learning/Deep Learning/Prompt Engineer"
+      },
+      {
+        "subcategory": "Job",
+        "title": "Company",
+        "content": "CapeStart, Nagercoil, India"
+      },
+      {
+        "subcategory": "Job",
+        "title": "Year",
+        "content": "April, 2022-Ongoing"
+      },
+      {
+        "subcategory": "Job",
+        "title": "Duration",
+        "content": "Year, Months [calculate results]"
+      },
+      {
+        "subcategory": "Job",
+        "title": "Job Details",
+        "content": "Detailed information of the responsibilities and achievements come here"
+      },
+      {
+        "subcategory": "Job",
+        "title": "Job Role",
+        "content": "System Engineer"
+      },
+      {
+        "subcategory": "Job",
+        "title": "Company",
+        "content": "CapeStart, Nagercoil, India"
+      },
+      {
+        "subcategory": "Job",
+        "title": "Year",
+        "content": "2021-2022"
+      },
+      {
+        "subcategory": "Job",
+        "title": "Duration",
+        "content": "Year, Months [calculate results]"
+      },
+      {
+        "subcategory": "Job",
+        "title": "Job Details",
+        "content": "Detailed information of the responsibilities and achievements come here"
+      },
+      {
+        "subcategory": "Job",
+        "title": "Job Role",
+        "content": "Support Analyst"
+      },
+      {
+        "subcategory": "Job",
+        "title": "Company",
+        "content": "CapeStart, Nagercoil, India"
+      },
+      {
+        "subcategory": "Job",
+        "title": "Year",
+        "content": "2021"
+      },
+      {
+        "subcategory": "Job",
+        "title": "Duration",
+        "content": "Year, Months [calculate results]"
+      },
+      {
+        "subcategory": "Job",
+        "title": "Job Details",
+        "content": "Detailed information of the responsibilities and achievements come here"
+      },
+      {
+        "subcategory": "Job",
+        "title": "Job Role",
+        "content": "Material Under Repair Coordinator"
+      },
+      {
+        "subcategory": "Job",
+        "title": "Company",
+        "content": "Video Home, Doha, Qatar"
+      },
+      {
+        "subcategory": "Job",
+        "title": "Year",
+        "content": "2020-2021"
+      },
+      {
+        "subcategory": "Job",
+        "title": "Duration",
+        "content": "Year, Months [calculate results]"
+      },
+      {
+        "subcategory": "Job",
+        "title": "Job Details",
+        "content": "Detailed information of the responsibilities and achievements come here"
+      },
+      {
+        "subcategory": "Job",
+        "title": "Job Role",
+        "content": "Content Creator"
+      },
+      {
+        "subcategory": "Job",
+        "title": "Company",
+        "content": "QtPi Robotics, Bangalore, India"
+      },
+      {
+        "subcategory": "Job",
+        "title": "Year",
+        "content": "2019-2020"
+      },
+      {
+        "subcategory": "Job",
+        "title": "Duration",
+        "content": "Year, Months [calculate results]"
+      },
+      {
+        "subcategory": "Job",
+        "title": "Job Details",
+        "content": "Detailed information of the responsibilities and achievements come here"
+      }
+    ],
+    "expertise": [
+      {
+        "subcategory": "Technical Skill",
+        "title": "Technical Skills",
+        "content": "[Good]Python, C, C++, Networking and Routing, [Basic]HTML, CSS, Bootstrap"
+      },
+      {
+        "subcategory": "Personal Skill",
+        "title": "Personal Skills",
+        "content": "Technical Support, Analytical Skill, Communication, Leadership, Teamwork"
+      },
+      {
+        "subcategory": "Language Skill",
+        "title": "Language Skills",
+        "content": "English - Speak/Write, Tamil - Speak/Write"
+      },
+      {
+        "subcategory": "Certifications",
+        "title": "Certifications",
+        "content": "AWS Certified Solutions Architect"
+      },
+      {
+        "subcategory": "Projects",
+        "title": "Amazon Price History Tracker",
+        "content": "Details [repo link]"
+      },
+      {
+        "subcategory": "Projects",
+        "title": "Face Detection",
+        "content": "Details [repo link]"
+      }
+    ],
+    "interests": [
+      {
+        "subcategory": "",
+        "title": "Interests",
+        "content": "Sports - Football, Music - Pop, Video games, Video Editing, Photography"
+      }
+    ]
+  }
