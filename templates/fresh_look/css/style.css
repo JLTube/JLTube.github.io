@@ -1,0 +1,53 @@
+body {
+    font-family: Arial, sans-serif;
+    color: #333;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.header h1 {
+    margin: 0;
+    font-size: 2em;
+}
+
+.header h2 {
+    margin: 5px 0;
+    font-weight: normal;
+    color: #666;
+}
+
+#contact p {
+    margin: 5px 0;
+}
+
+.section {
+    margin-bottom: 20px;
+}
+
+.section h2 {
+    margin-bottom: 10px;
+    font-size: 1.2em;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 5px;
+}
+
+.section p, .section div {
+    margin: 5px 0;
+}
+
+button {
+    display: block;
+    margin: 20px auto;
+    padding: 10px 20px;
+    font-size: 1em;
+    cursor: pointer;
+}
