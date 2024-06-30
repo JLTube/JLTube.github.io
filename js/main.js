@@ -5,7 +5,7 @@ const data = {
     "contact": {
         "email": "joneslaura07@gmail.com",
         "phone": "+91 94438 78524",
-        "website": "www.yourdomainname.com",
+        "website": "www.JLTube.github.io",
         "address": "Nagercoil, India"
     },
     "aboutMe": "An enthusiastic AI/ML/DL/LLM Engineer skilled in developing and implementing machine learning, deep learning models, and prompt engineering techniques. Experienced in diverse roles, with a passion for continuous learning and contributing to innovative AI projects.",
